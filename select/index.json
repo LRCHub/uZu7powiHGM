@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "サファイア",
+  "base_artist": "Hana Hope",
+  "createdAt": "2025-12-26T14:00:21.889021Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サファイア",
+      "artist": "BUCK-TICK",
+      "has_synced": true,
+      "path": "select/01_サファイア_BUCK-TICK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サファイア",
+      "artist": "BUCK‐TICK",
+      "has_synced": true,
+      "path": "select/02_サファイア_BUCK‐TICK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サファイア",
+      "artist": "Hana Hope",
+      "has_synced": false,
+      "path": "select/pl_01_サファイア_Hana_Hope.txt"
+    }
+  ]
+}
